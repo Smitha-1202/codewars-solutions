@@ -1,0 +1,1 @@
+def take(arr,n): return arr if len(arr) < n else arr[0:n:1]
